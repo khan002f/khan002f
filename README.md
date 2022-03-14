@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello World 👋
+
+👋 Hi, I'm Farhan
+🤖 I’m interested in ... AI
+🏡 I’m currently learning ... Real estate investing
+💬 Ask me about ... Green energy
+🚀 How to reach me ... https://www.linkedin.com/in/farhan-a-khan/
+
 
 <!--
 **khan002f/khan002f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
