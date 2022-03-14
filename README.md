@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello World 🌎
 
 - 👋 Hi, I'm Farhan
 - 🤖 I’m interested in ... AI
