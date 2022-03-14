@@ -1,10 +1,10 @@
 ### Hello World 👋
 
-👋 Hi, I'm Farhan
-🤖 I’m interested in ... AI
-🏡 I’m currently learning ... Real estate investing
-💬 Ask me about ... Green energy
-🚀 How to reach me ... https://www.linkedin.com/in/farhan-a-khan/
+- 👋 Hi, I'm Farhan
+- 🤖 I’m interested in ... AI
+- 🏡 I’m currently learning ... Real estate investing
+- 💬 Ask me about ... Green energy
+- 🚀 How to reach me ... https://www.linkedin.com/in/farhan-a-khan/
 
 
 <!--
